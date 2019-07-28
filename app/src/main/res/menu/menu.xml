@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:id="@+id/action_progile"
+    android:title="Profile"
+    app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_sell"
+        android:title="Sell"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cart"
+        android:title="Cart"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_payment"
+        android:title="Payment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>
